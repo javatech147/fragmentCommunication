@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Country Description App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>USA</item>
+        <item>England</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Newzeland</item>
+        <item>West Indies</item>
+        <item>South Africa</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Srilanka</item>
+    </string-array>
+
+
+    <string name="india">This is the description of India</string>
+    <string name="usa">This is the description of USA</string>
+    <string name="england">This is the description of England</string>
+    <string name="australia">This is the description of Australia</string>
+    <string name="bangladesh">This is the description of Bangladesh</string>
+    <string name="newzeland">This is the description of New Zeland</string>
+    <string name="westindies">This is the description of West Indies</string>
+    <string name="south_africa">This is the description of South Africa</string>
+    <string name="china">This is the description of China</string>
+    <string name="russia">This is the description of Russia</string>
+    <string name="srilanka">This si the description of Srilanka</string>
+
+</resources>
